@@ -1,0 +1,88 @@
+body{
+		border: 3px solid black;
+		position: absolute;
+		width:816px;
+	}
+h1{text-align:center;}
+#p1{text-align:center}
+#p2{
+display:inline;
+margin-left: 450px}
+#p3{padding-left:140px;
+display:inline;
+}
+table{
+width:100%}
+#qw1{
+display:inline;
+float: left;
+margin-left:150px;
+}
+#qw2{
+display:inline;
+float: right;
+margin-right:150px;
+}
+#e1{
+display:inline;
+margin-left:115px;
+}
+#e2{
+display:inline;
+padding-left:340px;
+}
+#r1{
+display:inline;
+width:200px;
+border:0px;
+float: left;
+margin-left:30px;
+}
+#r2{
+display:inline;
+float:auto;
+margin-left: 80px;
+width:200px;
+border:0px;
+}
+
+#s1{
+display:inline;
+width:200px;
+border:0px;
+float: left;
+margin-left:30px;
+}
+#s2{
+display:inline;
+float:auto;
+margin-left: 80px;
+width:200px;
+border:0px;
+}
+
+#t1{
+display:inline;
+width:200px;
+border:0px;
+float:left;
+margin-left:250px;
+margin-right:150px;
+}
+#t2{
+display:inline;
+
+width:200px;
+border:0px;
+}
+
+#total{
+
+}
+#qty{
+	padding-left:20px;
+}
+
+#amt{
+	padding-left:30px;
+}
